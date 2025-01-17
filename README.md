@@ -10,10 +10,8 @@ The **Spice.ai Cloud Platform** is an AI application and agent cloud; an AI-back
 {% hint style="info" %}
 This documentation pertains to the **Spice.ai Cloud Platform**.
 
-
-
 For documentation on the self-hostable **Spice.ai OSS Project**, please visit [**docs.spiceai.org**](https://docs.spiceai.org).\
-![](<.gitbook/assets/CleanShot 2024-12-19 at 11.45.07@2x.png>)
+
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption><p>Spice.ai Cloud, powered by Spice.ai OSS delivers a secure compute environment for AI applications and agents</p></figcaption></figure>
