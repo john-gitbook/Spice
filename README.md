@@ -14,9 +14,9 @@ For documentation on the self-hostable **Spice.ai OSS Project**, please visit [*
 
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption><p>Spice.ai Cloud, powered by Spice.ai OSS delivers a secure compute environment for AI applications and agents</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40).png" alt="" width="563"><figcaption><p>Spice.ai Cloud, powered by Spice.ai OSS delivers a secure compute environment for AI applications and agents</p></figcaption></figure>
 
-With the **Spice.ai Cloud Platform**, powered by **Spice.ai OSS**, you can:
+### With the **Spice.ai Cloud Platform**, powered by **Spice.ai OSS**, you can:
 
 1. **Query and accelerate data**: Run high-performance SQL queries across multiple data sources with results optimized for AI applications and agents.
 2. **Use AI Models**: Perform large language model (LLM) inference with major providers including OpenAI, Anthropic, and Grok for chat, completion, and generative AI workflows.
